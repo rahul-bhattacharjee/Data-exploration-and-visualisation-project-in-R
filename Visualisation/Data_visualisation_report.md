@@ -195,8 +195,7 @@ b)	Leaflet – to draw interactive maps
 c)	ggplot2 – To create different types of graphs like bubble chart, bar chart, scatter plot etc.
 d)	dplyr – For use of data manipulation functions like distinct function.
 e)	htmltools – For html tag manipulation for leaflet.
-R or D3
-The reason I chose R to create the narrative visualisation, because it has built in functions to create graphs and diagrams. D3 on the other hand, requires you to create graphs from scratch. And as I had already done my exploration of the same dataset in R, I already had a lot of available code scripts available for R and for some of its visualisations. Lastly, considering the time available for me to do this assignment, my D3 skills were not strong enough to enable me to use D3.
+
 Final Implementation
 During the implementation of the final design mentioned above, I made some changes as well. The final implementation steps are detailed below:
 1.	Added a cluster map to show the grouping of the listings in different parts of the New York map. This is to help the user discover the NY map and see the where listings are located and how they are clustered. Each data point also has a tooltip which appears on mouse over.
