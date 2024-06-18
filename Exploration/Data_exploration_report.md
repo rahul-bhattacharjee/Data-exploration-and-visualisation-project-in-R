@@ -10,10 +10,6 @@
 Data Exploration Report
 
 Student name: Rahul Bhattacharjee
-Student ID: 29992036
-Activity Number: 04-P1
-Tutor Name: Farah Tasnuba Kabir
-
 
  
 
