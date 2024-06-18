@@ -9,7 +9,7 @@
 
 Data Exploration Report
 
-Student name: Rahul Bhattacharjee
+Name: Rahul Bhattacharjee
 
  
 
