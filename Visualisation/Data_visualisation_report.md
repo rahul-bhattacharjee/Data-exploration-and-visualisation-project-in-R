@@ -1,5 +1,5 @@
 
-
+[NOTE] This data was copied from a word file, where any images could not be copied here.
 
 
 
